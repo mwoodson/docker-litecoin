@@ -1,4 +1,5 @@
-FROM fedora:latest
+FROM registry.fedoraproject.org/fedora:latest
+
 
 # creature comforts
 ENV LANG en_US.UTF-8
